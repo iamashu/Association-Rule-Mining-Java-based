@@ -1,0 +1,16 @@
+abcd
+bcd
+cfg
+di
+abcd,bcd
+abcd,cfg
+abcd,di
+bcd,di
+cfg,di
+abcd,bcd,di
+bcd=>di,abcd
+di=>bcd,abcd
+bcd,di=>abcd
+bcd,abcd=>di
+di,abcd=>bcd
+abcd=>bcd,di
